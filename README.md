@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idrisakan (İdris AKAN) I received Html,CSS,Java Script,Bootstrap,Sass React and Frontend training through Udemig.I work in accordance with teamwork and individual work.
+- 👋 Hi, I’m @idrisakan (İdris AKAN) I received Html,CSS,Java Script,Bootstrap,Sass,Redux,Redux Toolkit React and Frontend ve React Native Mobile training through Udemig.I work in accordance with teamwork and individual work.
 Capable of handling multiple projects at a time with minimum supervision.
 Possess excellent research and development and system management skills.
 - 👀 I’m interested in 
